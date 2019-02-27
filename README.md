@@ -1,4 +1,4 @@
-# HTML5/Sass/Compass Boilerplate 
+# Compass Sprite Animation
 
 Custom boilerplate (Built from the HTML5 Boilerplate v7, includes compass and sass functionality) created by Megan Akiba.
 
