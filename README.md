@@ -1,8 +1,6 @@
 # Compass Sprite Animation
 
-Custom boilerplate (Built from the HTML5 Boilerplate v7, includes compass and sass functionality) created by Megan Akiba.
-
-Starter template for future projects.
+Sprite Animation created using frames from video as images. 
 
 Creative Web Development Tools
 Taught by David Schaal, Spring 2019
